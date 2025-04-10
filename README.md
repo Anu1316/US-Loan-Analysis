@@ -73,3 +73,38 @@ California, Texas, and Florida lead in loan volume, representing key target mark
 
 ![Image](https://github.com/user-attachments/assets/3172de95-0c09-407e-93fe-3f5a0fbf9c5f)
 
+🛠️ Tool Used: Power BI
+This dashboard was created using Microsoft Power BI, a powerful business intelligence and data visualization tool that enables interactive data exploration and insight generation.
+
+✅ Why Power BI?
+Power BI was chosen for its:
+
+User-Friendly Interface: Easy drag-and-drop design makes creating visuals fast and intuitive.
+
+Rich Visual Library: Includes built-in charts like donut charts, bar/line/stacked column charts, and maps as seen in this dashboard.
+
+Data Modeling Capabilities: Allows creation of calculated fields, DAX measures, and relationships between datasets.
+
+Interactive Dashboards: Filters and slicers allow users to explore data dynamically.
+
+Geographic Mapping: The built-in map visual enables state-wise loan distribution analysis.
+
+💡 Features Utilized in This Dashboard
+Donut Charts for categorical breakdowns (e.g., Loan Status, Grade, Home Ownership).
+
+Bar and Column Charts to compare loan purposes and state-level distribution.
+
+KPI Cards to display key metrics like Loan Amount, Income, and Loan Count.
+
+Map Visualization to provide geographic insights.
+
+Custom DAX Measures to calculate:
+
+Total Loan Amount
+
+Average Income
+
+Loan-to-Income Ratio
+
+Count of Loans
+
