@@ -19,3 +19,5 @@ The total loan disbursal stands at $146 million, reflecting a robust lending pro
 
 Annual Income Insights:
 The average annual income of borrowers is around $69.8K, and the average loan-to-income ratio is 7.89, suggesting a moderate borrowing level relative to income.
+
+![Image](https://github.com/user-attachments/assets/6c36dcea-9ffc-438d-946f-f0546ea63ada)
