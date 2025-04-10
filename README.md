@@ -59,3 +59,10 @@ Borrowers have moderate income and borrowing levels, keeping debt-to-income in c
 Loans are most frequently used for debt relief and credit card consolidation.
 
 California, Texas, and Florida lead in loan volume, representing key target markets.
+
+
+📈 Strategic Recommendations
+•	Continue focusing on A and B grade borrowers for low risk and steady returns.
+•	Consider promotional loan products for underrepresented states to balance geographic exposure.
+•	Enhance marketing of debt consolidation loans, particularly for female borrowers.
+
