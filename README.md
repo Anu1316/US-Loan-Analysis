@@ -74,11 +74,9 @@ California, Texas, and Florida lead in loan volume, representing key target mark
 ![Image](https://github.com/user-attachments/assets/3172de95-0c09-407e-93fe-3f5a0fbf9c5f)
 
 🛠️ Tool Used: Power BI
-This dashboard was created using Microsoft Power BI, a powerful business intelligence and data visualization tool that enables interactive data exploration and insight generation.
 
 ✅ Why Power BI?
 
-Power BI was chosen for its:
 
 User-Friendly Interface: Easy drag-and-drop design makes creating visuals fast and intuitive.
 
