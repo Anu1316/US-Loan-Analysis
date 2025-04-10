@@ -49,6 +49,7 @@ Followed by Texas ($12M), Florida ($10M), and others.
 These figures may reflect both population density and cost of living differences in these states.
 
 📌 Key Takeaways
+
 High repayment rate (94%+ fully paid) indicates low credit risk in the portfolio.
 
 Grade distribution shows a focus on safer credit profiles (A & B).
