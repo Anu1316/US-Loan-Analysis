@@ -21,3 +21,18 @@ Annual Income Insights:
 The average annual income of borrowers is around $69.8K, and the average loan-to-income ratio is 7.89, suggesting a moderate borrowing level relative to income.
 
 ![Image](https://github.com/user-attachments/assets/6c36dcea-9ffc-438d-946f-f0546ea63ada)
+
+🧍‍♂️🧍‍♀️ Demographics & Borrower Behavior
+Home Ownership:
+The majority of borrowers are mortgage holders, followed by renters. Very few borrowers fall into the "own", "none", or "other" categories.
+
+Gender vs Purpose of Loan:
+Across both male and female borrowers, the top loan purposes are:
+
+Debt consolidation
+
+Credit card refinancing
+
+Home improvement
+
+Female borrowers appear slightly more active in all major loan purposes, especially debt consolidation and credit cards.
