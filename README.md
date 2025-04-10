@@ -62,6 +62,7 @@ California, Texas, and Florida lead in loan volume, representing key target mark
 
 
 📈 Strategic Recommendations
+
 •	Continue focusing on A and B grade borrowers for low risk and steady returns.
 •	Consider promotional loan products for underrepresented states to balance geographic exposure.
 •	Enhance marketing of debt consolidation loans, particularly for female borrowers.
