@@ -36,3 +36,5 @@ Credit card refinancing
 Home improvement
 
 Female borrowers appear slightly more active in all major loan purposes, especially debt consolidation and credit cards.
+
+![Image](https://github.com/user-attachments/assets/1278208a-e5fb-4edf-8042-41e3be5144b6)
