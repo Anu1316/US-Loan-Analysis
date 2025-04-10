@@ -12,3 +12,10 @@ The majority of loans (94.62%) are fully paid, indicating a healthy repayment ra
 
 Loan Grades:
 Most loans fall under grades B (30.46%) and A (24.8%), which are considered low-to-moderate risk. Higher-risk grades like F and G make up a very small fraction, showing limited exposure to high-risk borrowers.
+
+💰 Financial Overview
+Total Loan Amount Issued:
+The total loan disbursal stands at $146 million, reflecting a robust lending program.
+
+Annual Income Insights:
+The average annual income of borrowers is around $69.8K, and the average loan-to-income ratio is 7.89, suggesting a moderate borrowing level relative to income.
