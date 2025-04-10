@@ -38,3 +38,12 @@ Home improvement
 Female borrowers appear slightly more active in all major loan purposes, especially debt consolidation and credit cards.
 
 ![Image](https://github.com/user-attachments/assets/1278208a-e5fb-4edf-8042-41e3be5144b6)
+
+🗺️ Geographic Insights
+Top Loan States:
+
+California dominates with over $31M in disbursed loans.
+
+Followed by Texas ($12M), Florida ($10M), and others.
+
+These figures may reflect both population density and cost of living differences in these states.
